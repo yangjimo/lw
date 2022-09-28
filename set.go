@@ -1,4 +1,4 @@
-package lw
+package lwapi
 
 /*
 乐玩插件接口说明

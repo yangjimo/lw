@@ -1,4 +1,4 @@
-module github.com/luxiaolan6373/lw
+module github.com/yangjimo/lw
 
 go 1.17
 

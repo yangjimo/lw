@@ -1,4 +1,4 @@
-package lw
+package lwapi
 
 import (
 	"github.com/go-ole/go-ole"
@@ -59,5 +59,6 @@ func New() (lw *LwSoft, err error) {
 
 		return nil, err
 	}
+
 	return &com, nil
 }
